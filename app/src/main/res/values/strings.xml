@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Word Tool</string>
+    <string name="word_tool">WORD TOOL</string>
+    <string name="add_phrases">Add Phrases</string>
+    <string name="display_phrases">Display Phrases</string>
+    <string name="edit_phrases">Edit Phrases</string>
+    <string name="language_subscription">Language Subscription</string>
+    <string name="translate">Translate</string>
+    <string name="enter_a_single_word_or_a_phrase">Enter a Single Word or a Phrase :</string>
+    <string name="save">Save</string>
+    <string name="eg_university_good_morning">Eg: University , Good Morning</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="Save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+</resources>
